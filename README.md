@@ -12,3 +12,5 @@ Lab8
 https://docs.google.com/document/d/1PEgfCynox3fgbuvkkP06pnLGIR4Me-ov_VNVFsI81b4/edit# <br />
 Lab9
 https://docs.google.com/document/d/10ZuFb2NpSbdNhN445iyMmyaooLTxVVDXyY8AAF2IaPo/edit# <br />
+Quiz B
+https://docs.google.com/document/d/1XMWeW-YXFJNiQSAbe0n4wdVgzHOGTgJ_2Cqaxk5sFQU/edit <br />
