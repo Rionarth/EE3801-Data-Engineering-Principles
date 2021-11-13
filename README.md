@@ -15,5 +15,5 @@ https://docs.google.com/document/d/10ZuFb2NpSbdNhN445iyMmyaooLTxVVDXyY8AAF2IaPo/
 Quiz B
 https://docs.google.com/document/d/1XMWeW-YXFJNiQSAbe0n4wdVgzHOGTgJ_2Cqaxk5sFQU/edit <br />
 
-# PyHipp repository
+## PyHipp repository
 git clone https://github.com/Rionarth/PyHipp.git
